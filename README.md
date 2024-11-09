@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm a UI/UX designer who also code and bringing complex design and vision to life!</h1>
 <p>A passionate UI/UX designer and frontend developer from Indonesia</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<br>
+<h2>🚀 My Tech Stack : </h2>
 <br>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
@@ -22,6 +21,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p>
+<br>
+<br>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/@DaffaPutra15825" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/daffa-putra-pratama-7976b2283" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
