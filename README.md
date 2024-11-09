@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm a UI/UX designer who also code and bringing complex design and vision to life!</h2>
 <p>A passionate UI/UX designer and frontend developer from Indonesia</p>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx0dWk4eTRqN2ltZ212bTdueTJ1bjhnb3d5NDNlejYxdmpiZmZ6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.webp" alt="typescript" width="" height="50%" /></a>
+<a style="border-radius : 12px" target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx0dWk4eTRqN2ltZ212bTdueTJ1bjhnb3d5NDNlejYxdmpiZmZ6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.webp" alt="typescript" width="" height="50%" /></a>
 <br>    
 <h2>🚀 My Tech Stack : </h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -21,7 +21,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.brandfetch.io/nextjs.org/w/400/h/400?c=1idfc-hr3utdHyFTnHs" alt="nextjs" width="42" height="42" /></a></p>
-<br>
 <h2>✨ My Design Tools :</h2>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
